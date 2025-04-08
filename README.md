@@ -33,7 +33,7 @@ The bar graph displays `Customer Lifetime Value (CLV)` for each customer, which 
 - High CLV customers are essential for long-term business success. Companies should focus efforts on retaining these customers.
 - CLV can also help businesses decide how much to invest in acquiring new customers based on expected returns.
 
-### Correlation Co-efficients and P-values
+### Databrick job Runs
 
 #### TotalPurchase vs Frequency
 
