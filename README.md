@@ -75,7 +75,7 @@ Emerging markets like Brazil and Mexico might benefit from regional promotions o
 ![Revenue by Country](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Revenue_by_Country%20run.png)
 
 ### Databrick Data Pipelines
-
+This report provides a detailed analysis of sales data across multiple dimensions including product performance, store revenue, geographic distribution, and units sold. The objective is to uncover insights that can drive business strategy and operational efficiency.
 ### Sales Data Pipeline
 ![Sales pipeline](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Sales%20Data%20Pipeline.png)
 
